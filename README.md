@@ -31,3 +31,12 @@ while ( !story.finished ) {
 * 2nd team member:
     * Try and merge in your PR and see what happens 😲
 
+## Useful commands
+
+* Pull changes: `git pull`
+* Stage files: `git add <file_name>`
+* Commit files: `git commit -m 'your commit message'`
+* Push commit: `git push`
+* Checkout an existing branch: `git checkout 'branch-name'`
+* Create and checkout a new branch: `git checkout -b 'new-branch-name'`
+* Merge commits from another branch to your current branch: `git merge <other_branch_name>`
