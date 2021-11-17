@@ -1,1 +1,1 @@
-Joey was at a brothel with a lady dinosour for some hot cheese
+Louis ate a big sausage this morning
