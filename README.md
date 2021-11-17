@@ -40,3 +40,5 @@ while ( !story.finished ) {
 * Checkout an existing branch: `git checkout 'branch-name'`
 * Create and checkout a new branch: `git checkout -b 'new-branch-name'`
 * Merge commits from another branch to your current branch: `git merge <other_branch_name>`
+
+![](https://miro.medium.com/max/800/1*RTgn1s0GY8r0rSPsAzf8NQ.png)
