@@ -1,6 +1,6 @@
 # git-playground
 
-## Exercise i:
+## Exercise 1:
 
 In your teams:
 * 1st team member:
@@ -20,7 +20,7 @@ while ( !story.finished ) {
     
 }
 
-## Exercise ii:
+## Exercise 2:
 
 * All team members create a new branch:
     * Add a final sentence to the story
