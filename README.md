@@ -1,6 +1,6 @@
 # git-playground
 
-## Exercise 1:
+## Exercise i:
 
 In your teams:
 * 1st team member:
