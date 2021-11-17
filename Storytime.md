@@ -1,1 +1,1 @@
-Joey was at
+Joey was at a brothel with
