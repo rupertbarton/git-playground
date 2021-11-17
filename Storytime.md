@@ -1,1 +1,1 @@
-Joey was at a brothel with a lady dinosour
+Joey was at a brothel with a lady dinosour for some hot cheese
