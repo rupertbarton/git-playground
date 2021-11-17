@@ -43,8 +43,4 @@ while ( !story.finished ) {
 
 ![](https://miro.medium.com/max/800/1*RTgn1s0GY8r0rSPsAzf8NQ.png)
 
-<<<<<<< HEAD
-Chuck Norris doesn't
-=======
 HELLO WORLD!!!
->>>>>>> 326214087a97c00a3ebe69177758f0e2ef5b82c6
