@@ -20,7 +20,7 @@ while ( !story.finished ) {
     
 }
 
-## Exercise 2:
+## Exercise ii:
 
 * All team members create a new branch:
     * Add a final sentence to the story
