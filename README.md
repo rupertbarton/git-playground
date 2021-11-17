@@ -1,6 +1,6 @@
 # git-playground
 
-## Exercise 1:
+## Exercise A:
 
 In your teams:
 * 1st team member:
@@ -20,7 +20,7 @@ while ( !story.finished ) {
     
 }
 
-## Exercise 2:
+## Exercise ii:
 
 * All team members create a new branch:
     * Add a final sentence to the story
@@ -35,12 +35,16 @@ while ( !story.finished ) {
 
 * Pull changes: `git pull`
 * Stage files: `git add <file_name>`
-* Commit files: `git commit -m 'your commit message'`
+* Commit files: `git commit -m '<your commit message>'`
 * Push commit: `git push`
-* Checkout an existing branch: `git checkout 'branch-name'`
-* Create and checkout a new branch: `git checkout -b 'new-branch-name'`
+* Checkout an existing branch: `git checkout <branch-name>`
+* Create and checkout a new branch: `git checkout -b <new-branch-name>`
 * Merge commits from another branch to your current branch: `git merge <other_branch_name>`
 
 ![](https://miro.medium.com/max/800/1*RTgn1s0GY8r0rSPsAzf8NQ.png)
 
+<<<<<<< HEAD
 Chuck Norris doesn't
+=======
+HELLO WORLD!!!
+>>>>>>> 326214087a97c00a3ebe69177758f0e2ef5b82c6
